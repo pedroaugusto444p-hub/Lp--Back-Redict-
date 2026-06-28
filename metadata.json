@@ -1,0 +1,6 @@
+{
+  "name": "Back Redirect Landing Page",
+  "description": "Uma landing page de alta conversão integrada com interceptação de botão voltar (back-redirect) e captura de leads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
